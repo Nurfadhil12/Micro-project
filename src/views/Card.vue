@@ -14,7 +14,7 @@
             class="mb-2"
           >
             <b-card-text>
-                    <a href="https://www.facebook.com/sharer.php?u=[/card]">
+                    <a href="https://www.facebook.com/sharer.php?u=[https://micro-project.vercel.app/card]">
                         <p>
                         facebook
                         </p>
