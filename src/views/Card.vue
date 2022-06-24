@@ -5,7 +5,7 @@
     <div class="row mb-4">
         <div class="col-12">
           <b-card
-            title="Card Title"
+            title="Pohon Sakura"
             img-src="https://picsum.photos/600/300/?image=25"
             img-alt="Image"
             img-top
@@ -13,10 +13,25 @@
             style="max-width: 100%; border:none"
             class="mb-2"
           >
-            <b-card-text>
-                    <a href="https://www.facebook.com/sharer.php?u=[https://micro-project.vercel.app/card]">
+            <b-card-text style="display:flex">
+                    <a href="https://www.facebook.com/sharer.php?u=https://micro-project.vercel.app/card" style="margin:0px 20px">
                         <p>
                         facebook
+                        </p>
+                    </a>
+                    <a href="https://twitter.com/share?url=https://micro-project.vercel.app/card" style="margin:0px 20px">
+                        <p>
+                        twitter
+                        </p>
+                    </a>
+                    <a href="https://api.whatsapp.com/send?https://micro-project.vercel.app/card" style="margin:0px 20px">
+                        <p>
+                        whatsapp
+                        </p>
+                    </a>
+                    <a href="https://www.linkedin.com/shareArticle?url=https://micro-project.vercel.app/card" style="margin:0px 20px">
+                        <p>
+                        linkedin
                         </p>
                     </a>
             </b-card-text>
